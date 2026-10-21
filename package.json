@@ -2,7 +2,7 @@
   "name": "markdown-styler",
   "title": "Markdown Styler",
   "description": "Convert Markdown to styled HTML with inline CSS for content platforms",
-  "icon": "command-icon.png",
+  "icon": "assets/command-icon.png",
   "author": "almatkai",
   "categories": [
     "Productivity"
