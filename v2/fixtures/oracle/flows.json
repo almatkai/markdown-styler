@@ -1,0 +1,220 @@
+[
+  {
+    "name": "normal-open-copy-sample-refresh-dispose",
+    "trace": [
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "open",
+        "file:///oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "toast",
+        {
+          "style": "success",
+          "title": "Opened in Browser",
+          "message": "Please follow the instructions to copy content manually"
+        }
+      ],
+      [
+        "copy",
+        "some plain selected text"
+      ],
+      [
+        "toast",
+        {
+          "style": "success",
+          "title": "Markdown Copied",
+          "message": "Original Markdown text copied to clipboard"
+        }
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-sample-1700000000000.html"
+      ],
+      [
+        "toast",
+        {
+          "style": "success",
+          "title": "Sample Ready",
+          "message": "Demo conversion completed - check browser"
+        }
+      ],
+      [
+        "open",
+        "file:///oracle tmp/文#%/md-styler-sample-1700000000000.html"
+      ],
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "unlink",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "unlink",
+        "/oracle tmp/文#%/md-styler-sample-1700000000000.html"
+      ]
+    ],
+    "reads": 2
+  },
+  {
+    "name": "readError",
+    "trace": [
+      [
+        "selected"
+      ]
+    ],
+    "display": "❌ Unable to get selected text\n\nError: Unknown error\n\nPlease select some text in another application and try again.",
+    "actions": [
+      "Try Sample Conversion",
+      "Refresh Selection"
+    ]
+  },
+  {
+    "name": "writeError",
+    "trace": [
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ]
+    ],
+    "display": "❌ Unable to get selected text\n\nError: Unknown error\n\nPlease select some text in another application and try again.",
+    "actions": [
+      "Try Sample Conversion",
+      "Refresh Selection"
+    ]
+  },
+  {
+    "name": "openError",
+    "trace": [
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "open",
+        "file:///oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "toast",
+        {
+          "style": "failure",
+          "title": "Failed to Open",
+          "message": "Unable to open preview in browser"
+        }
+      ]
+    ],
+    "actions": [
+      "Open in Browser and Copy",
+      "Refresh Selection",
+      "Copy Original Markdown",
+      "Try Sample Conversion"
+    ]
+  },
+  {
+    "name": "copyError",
+    "trace": [
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "copy",
+        "# selected markdown"
+      ],
+      [
+        "toast",
+        {
+          "style": "failure",
+          "title": "Copy Failed",
+          "message": "Please try again"
+        }
+      ]
+    ],
+    "actions": [
+      "Open in Browser and Copy",
+      "Refresh Selection",
+      "Copy Original Markdown",
+      "Try Sample Conversion"
+    ]
+  },
+  {
+    "name": "sample-open-failure",
+    "trace": [
+      [
+        "selected"
+      ],
+      [
+        "delay",
+        50
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-1700000000000.html"
+      ],
+      [
+        "write",
+        "/oracle tmp/文#%/md-styler-sample-1700000000000.html"
+      ],
+      [
+        "toast",
+        {
+          "style": "success",
+          "title": "Sample Ready",
+          "message": "Demo conversion completed - check browser"
+        }
+      ],
+      [
+        "open",
+        "file:///oracle tmp/文#%/md-styler-sample-1700000000000.html"
+      ],
+      [
+        "toast",
+        {
+          "style": "failure",
+          "title": "Sample Failed",
+          "message": "Unable to generate sample"
+        }
+      ]
+    ]
+  }
+]

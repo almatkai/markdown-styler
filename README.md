@@ -55,3 +55,6 @@ This extension opens a temporary HTML file in your browser to facilitate copying
 ## License
 
 MIT
+
+
+[Tezbar Native V2 Rust port and integration notes](v2/README.md).

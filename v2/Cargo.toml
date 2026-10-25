@@ -1,0 +1,32 @@
+[package]
+name = "tezbar-markdown-styler"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT"
+description = "Compiled-in Native V2 Markdown Styler core and beta adapter"
+repository = "https://github.com/almatkai/markdown-styler"
+include = ["/manifest.json", "/examples/**", "/src/**", "/adapter/**", "/templates/**", "/assets/**", "/tests/**", "/fixtures/**", "/integration/**", "/scripts/*.py", "/scripts/*.cjs", "/scripts/*.json", "/Cargo.toml", "/Cargo.lock", "/*.md", "/NOTICE", "/LICENSE*"]
+
+[dependencies]
+pulldown-cmark = { version = "=0.13.0", default-features = false }
+serde = { version = "1.0.219", features = ["derive"] }
+serde_json = "1.0.140"
+file-id = "=0.2.3"
+regex = "1.11.1"
+sha2 = "0.10.8"
+tempfile = "3.20.0"
+url = "2.5.2"
+ammonia = "=4.0.0"
+getrandom = "0.2.16"
+chrono = { version = "0.4.40", default-features = false, features = ["clock"] }
+
+[dev-dependencies]
+base64 = "=0.22.1"
+uuid = { version = "=1.16.0", features = ["v4"] }
+tokio = { version = "=1.43.0", features = ["rt-multi-thread", "macros", "sync", "time"] }
+log = "=0.4.26"
+
+[[test]]
+name = "beta_adapter"
+path = "integration/harness.rs"

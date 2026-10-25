@@ -1,0 +1,5 @@
+const fs=require('node:fs'),assert=require('node:assert/strict'),Ajv=require('ajv/dist/2020');
+const v=require('node:path').resolve(__dirname,'..');const ajv=new Ajv({strict:false,allErrors:true});
+const schema=JSON.parse(fs.readFileSync(v+'/fixtures/beta/schemas/extension-v2.schema.json'));const validate=ajv.compile(schema);const manifest=JSON.parse(fs.readFileSync(v+'/manifest.json'));assert(validate(manifest),JSON.stringify(validate.errors));
+for(const mutate of [m=>m.schemaVersion=1,m=>m.runtime='javascript',m=>m.id='raycast.markdown-styler',m=>m.author='qcrao',m=>delete m.icon,m=>m.icon='/tmp/icon.png',m=>m.replaces=[],m=>m.replaces=['raycast.markdown-styler','raycast.markdown-styler'],m=>m.commands[0].runtime='native',m=>m.commands[0].platforms=[],m=>m.verification[0].state='passed',m=>m.verification.pop()]){const m=structuredClone(manifest);mutate(m);assert(!validate(m),JSON.stringify(m))}
+console.log('Draft 2020-12 schema: valid manifest + 12 negatives passed; both desktop verification states remain not-run');

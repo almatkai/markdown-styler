@@ -1,0 +1,7 @@
+/target/
+/.v1/
+/.scratch/
+/scripts/node_modules/
+/integration/harness/target/
+*.log
+__pycache__/

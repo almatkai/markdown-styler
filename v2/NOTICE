@@ -1,0 +1,27 @@
+Markdown Styler Native V2 behavior port
+
+Original extension author: qcrao.
+Original repository: https://github.com/raycast/extensions
+Original revision: 6734d85992290066fd31a7f5bee3cca3d3545a1a
+Original path: extensions/markdown-styler
+The exact original command-icon.png, inline styles, source, templates and sample
+are retained with upstream MIT evidence (Copyright (c) 2021 Raycast).
+
+Own V1 repository: https://github.com/almatkai/markdown-styler
+Own revision: 7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd
+Its LICENSE bytes contain literal backslash-n sequences; LICENSE-MIT-OWN and the
+fixture preserve those bytes without repairing or inventing a grant.
+
+Beta host code fixtures: Tezbar fd300e276356587726566026f072563eb9c34cb1.
+Current host regression fixtures: fe71ca87f21ac4ff31505010c228f8abda0f2a89.
+Host license: Apache-2.0; exact evidence in LICENSE-APACHE-2.0.
+The derived test harness includes beta production bodies plus described test
+visibility, registration, unrelated-adapter and Tauri emitter seams.
+
+marked 9.1.6 is a verification oracle, licensed MIT. It is not executed by the
+native extension. Rust production dependencies and their exact license evidence
+are inventoried in fixtures/licenses/rust-packages.json. Node verification
+library evidence is under fixtures/licenses/npm and fixtures/libraries/marked.
+No source-derived browser helper is extension code; only the fixed original
+auxiliary document helper (with documented safety corrections) executes after
+an explicit Open or Sample action.
