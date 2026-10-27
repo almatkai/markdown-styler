@@ -1,0 +1,13 @@
+{
+  "name": "markdown-styler-verification",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jsdom": "26.1.0",
+    "ajv": "8.17.1",
+    "marked": "18.0.2",
+    "marked-highlight": "2.2.4",
+    "highlight.js": "11.11.1",
+    "dompurify": "3.4.0"
+  }
+}

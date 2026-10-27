@@ -1,0 +1,2452 @@
+[
+  {
+    "path": "fixtures/beta/LICENSE",
+    "bytes": 10750,
+    "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf",
+    "sri": "sha256-DtaxsnYClNSqqkW+OOFm/MAWjh3VGQQjwJb8vhyUr78=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:LICENSE"
+  },
+  {
+    "path": "fixtures/beta/docs/NATIVE_V2_FORMAT.md",
+    "bytes": 2593,
+    "sha256": "8bf9315ad047326dd6737587ca5491fc35faf5e3f92a2d9c63f596be0c8f7b7a",
+    "sri": "sha256-i/kxWtBHMm3Wc3WHylSR/DX69eP5Ki2cY/WWvgyPe3o=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:docs/NATIVE_V2_FORMAT.md"
+  },
+  {
+    "path": "fixtures/beta/package.json",
+    "bytes": 2909,
+    "sha256": "a9e41304960cd456d9f0b223110cd3abfd012c8899fa703acacee6b0d719faf7",
+    "sri": "sha256-qeQTBJYM1FbZ8LIjEQzTq/0BLIiZ+nA6ys7msNcZ+vc=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:package.json"
+  },
+  {
+    "path": "fixtures/beta/pnpm-lock.yaml",
+    "bytes": 158612,
+    "sha256": "9ea96c8e56c802695899d7014a573fadff8a37fd665fa71225526bd41b659bfc",
+    "sri": "sha256-nqlsjlbIAmlYmdcBSlc/rf+KN/1mX6cSJVJr1Btlm/w=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:pnpm-lock.yaml"
+  },
+  {
+    "path": "fixtures/beta/schemas/extension-v2.schema.json",
+    "bytes": 2420,
+    "sha256": "6d5afda1b652605982104bdf16d1547547b98dfd707a7b2969316406c49f32af",
+    "sri": "sha256-bVr9obZSYFmCEEvfFtFUdUe5jf1wenspaTFkBsSfMq8=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:schemas/extension-v2.schema.json"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/ExtensionRuntimeView.tsx",
+    "bytes": 23694,
+    "sha256": "cfe15d50c89b0e57666604fea06327c3bd564ee2644404676a233149a025395d",
+    "sri": "sha256-z+FdUMibDldmZgT+oGMnw71WTuJkRARnaiMxSaAlOV0=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/ExtensionRuntimeView.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-overlay.tsx",
+    "bytes": 2915,
+    "sha256": "3eb4a59db0de59460ea8a2c7f4a1f6ec5b514a512f49352bf373db64ed58d604",
+    "sri": "sha256-PrSlnbDeWUYOqKLH9KH27FtRSlEvSTUr83PbZO1Y1gQ=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/action-runtime-overlay.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-registry.tsx",
+    "bytes": 692,
+    "sha256": "ffbad6f70410c6d2dcf4af217abe4ab297d69c0cae2c993263c008a423175e16",
+    "sri": "sha256-/7rW9wQQxtLc9K8her5KspfWnAyuLJkyY8AIpCMXXhY=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/action-runtime-registry.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime.tsx",
+    "bytes": 391,
+    "sha256": "6e7a41e3d1a7ee2028103683f08fb8ed20e4b2e5751e182afe9f8e189522a28b",
+    "sri": "sha256-bnpB49Gn7iAoEDaD8I+47SDksuV1Hhgq/p+OGJUioos=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/action-runtime.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/detail-runtime.test.ts",
+    "bytes": 1028,
+    "sha256": "94acca3393a3636f7188a2ceac4a5e0429c2a0bc3433b02163602bdbe38beef4",
+    "sri": "sha256-lKzKM5OjY29xiKLOrEpeBCnCoLw0M7AhY2Ar2+OL7vQ=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/detail-runtime.test.ts"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/detail-runtime.tsx",
+    "bytes": 23478,
+    "sha256": "32eecb50891e0f282bd3d78d8a38193ec24540bf70c3fdc8e43a1d368c97d54c",
+    "sri": "sha256-Mu7LUIkeDygr09eNijgZPsJFQL9ww/3I5DodNoyX1Uw=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/detail-runtime.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/index.tsx",
+    "bytes": 7419,
+    "sha256": "7fc8413a72b92e8f88b0939cd93f91624018fe0765baa1e71b38b86f8cc77a64",
+    "sri": "sha256-f8hBOnK5Lo+IsJOc2T+RYkAY/gdluqHnGzi4b4zHemQ=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/index.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/ipc-bridge.ts",
+    "bytes": 1110,
+    "sha256": "17784548760d476efebeae36d5b03e9c50a69c2da2b92ce0163cabbfe9566d97",
+    "sri": "sha256-F3hFSHYNR27+vq421bA+nFCmnC2iuSzgFjyrv+lWbZc=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/ipc-bridge.ts"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/src/raycast-api/native-v2-visuals.test.ts",
+    "bytes": 3347,
+    "sha256": "afa00333ff5293015fc1d6c87dc429ef9fdb6322a89887c6ad7b6b5b49fcb182",
+    "sri": "sha256-r6ADM/9SkwFfwdbIfcQp75/bYyKomIfGrXtrW0n8sYI=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/src/raycast-api/native-v2-visuals.test.ts"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/ui/CommandSurface.tsx",
+    "bytes": 3465,
+    "sha256": "3d6b6456c2cae859156a01cc17fdec5cbfc4f8a9066608779407bf91bd72133f",
+    "sri": "sha256-PWtkVsLK6FkVagHMF/3sXL/E+KkGZgh3lAe/kb1yEz8=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/ui/CommandSurface.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/renderer/ui/Markdown.tsx",
+    "bytes": 7492,
+    "sha256": "d205312b35293a433d5398e4edf1dcc96662cacd34036e8ee3ec503f65eee2de",
+    "sri": "sha256-0gUxKzUpOkM9U5jk7fHcyWZiys00A26O4+xQP2Xu4t4=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/renderer/ui/Markdown.tsx"
+  },
+  {
+    "path": "fixtures/beta/src/shared/extensionRuntime.ts",
+    "bytes": 3838,
+    "sha256": "837b804856baa6b16ebda080920af456268fefcffa7a1c3e2964b95d697ee387",
+    "sri": "sha256-g3uASFa6prFuvaCAkgr0ViaP78/6ehw+KWS5XWl+44c=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src/shared/extensionRuntime.ts"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/Cargo.toml.txt",
+    "bytes": 2141,
+    "sha256": "98b2ca2dd131ec4ca8a9dc9d5c41a7fd2c25a3079f58813e051a1b9761849b0c",
+    "sri": "sha256-mLLKLdEx7EyoqdydXEGn/SwlowefWIE+BRobl2GEmww=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/Cargo.toml"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/common.rs",
+    "bytes": 7627,
+    "sha256": "280a0a2f0dd04a8570b320aafc0c3ece0f5de8ddb21c363645567d6a35d84da7",
+    "sri": "sha256-KAoKLw3QSoVwsyCq/Aw+zg9d6N2yHDY2RVZ9ajXYTac=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/common.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/catalog.rs",
+    "bytes": 16322,
+    "sha256": "6f1a3f6e65a581a01c08208aae46e77bf60ee97c87bdec98cc0edc7ddbfb6b60",
+    "sri": "sha256-bxo/bmWlgaAcCCCKrkbne/YO6XyHveyYzA7cfdv7a2A=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/catalog.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/mod.rs",
+    "bytes": 6248,
+    "sha256": "73c3625fdaadb944431191294dbfaa4f38a878faa03f15a917863be9c311e04f",
+    "sri": "sha256-c8NiX9qtuURDEZEpTb+qTzioePqgPxWpF4Y76cMR4E8=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/mod.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/native.rs",
+    "bytes": 14551,
+    "sha256": "3192be6beccc110cd6daa22db412e0f90685957ec51b3c71103b78e239978691",
+    "sri": "sha256-MZK+a+zMEQzW2qIttBLg+QaFlX7FGzxxEDt44jmXhpE=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/native.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/native_tests.rs",
+    "bytes": 23475,
+    "sha256": "75c4bf5ec47d0d64d3d8e51db0989e708d1474b1bb41a667098bd645394145fc",
+    "sri": "sha256-dcS/XsR9DWTT2OUdsJiecI0UdLG7QaZnCYvWRTlBRfw=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/native_tests.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/registry.rs",
+    "bytes": 32782,
+    "sha256": "0919201dce5658506aa59d03d14b2a7db7891ebb1070d4ad106937c5453c17e9",
+    "sri": "sha256-CRkgHc5WWFBqpZ0D0UsqfbeJHrsQcNStEGk3xUU8F+k=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/registry.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_catalog.json",
+    "bytes": 71862,
+    "sha256": "6cba59a7a6ec10dbe985c8fa4f4be82e4b2495b3718fd9a9a8dd7b3169e977e7",
+    "sri": "sha256-bLpZp6bsENvphcj6T0voLksklbNxj9mpqN17MWnpd+c=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/v2_catalog.json"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_catalog.rs",
+    "bytes": 6839,
+    "sha256": "651a16df484f42a827ac69e209e80d09cad868232d1953d241652a4a39481e16",
+    "sri": "sha256-ZRoW30hPQqgnrGniCegNCcrYaCMtGVPSQWUqSjlIHhY=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/v2_catalog.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_runtime.rs",
+    "bytes": 3110,
+    "sha256": "df96675ba916a3d70b8e0e5da76f7a9422d238cc3fbe3a5a6178fef21662a6a0",
+    "sri": "sha256-35ZnW6kWo9cLjg5dp296lCLSOMw/vjpaYXj+8hZipqA=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/v2_runtime.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_sdk.rs",
+    "bytes": 6755,
+    "sha256": "4f987346f863db9a7bd6aa1d5a99e149925dc69a44d629727ccc80a567cd27c2",
+    "sri": "sha256-T5hzRvhj25p71qodWpnhSZJdxppE1ilyfMyApWfNJ8I=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/extensions/v2_sdk.rs"
+  },
+  {
+    "path": "fixtures/beta/src-tauri/src/native_core/platform.rs",
+    "bytes": 28906,
+    "sha256": "75fa7ce4204edbbdb0f4a5410895b32239939b707256c484dc3c4f9de390b5a1",
+    "sri": "sha256-dfp85CBO272w9KVBCJWzIjmTm3ByVsSE3DxPneOQtaE=",
+    "source": "git-object:Tezbar-host@fd300e276356587726566026f072563eb9c34cb1:src-tauri/src/native_core/platform.rs"
+  },
+  {
+    "path": "fixtures/current/schemas/extension-v2.schema.json",
+    "bytes": 2152,
+    "sha256": "708c618df70ef6058d31c8bc1557e3fd02e8de5452312bdd6507826c2c24f6c7",
+    "sri": "sha256-cIxhjfcO9gWNMci8FVfj/QLo3lRSMSvdZQeCbCwk9sc=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:schemas/extension-v2.schema.json"
+  },
+  {
+    "path": "fixtures/current/src/renderer/extensionCatalogState.ts",
+    "bytes": 5314,
+    "sha256": "e304162b5ce12312a53b90556b769c8641bdfc4be6a9ba93fb2a5712e4186042",
+    "sri": "sha256-4wQWK1zhIxKlO5BVa3achkG9/EvmqbqT+ypXEuQYYEI=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src/renderer/extensionCatalogState.ts"
+  },
+  {
+    "path": "fixtures/current/src/renderer/extensionImages.ts",
+    "bytes": 2867,
+    "sha256": "053b98b523ed3ae06957d5eb84b0c4243db5ef4725614580e498ead7c53a518a",
+    "sri": "sha256-BTuYtSPtOuBpV9XrhLDEJD2170clYUWA5Jjq18U6UYo=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src/renderer/extensionImages.ts"
+  },
+  {
+    "path": "fixtures/current/src/renderer/src/raycast-api/detail-runtime.tsx",
+    "bytes": 23478,
+    "sha256": "32eecb50891e0f282bd3d78d8a38193ec24540bf70c3fdc8e43a1d368c97d54c",
+    "sri": "sha256-Mu7LUIkeDygr09eNijgZPsJFQL9ww/3I5DodNoyX1Uw=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src/renderer/src/raycast-api/detail-runtime.tsx"
+  },
+  {
+    "path": "fixtures/current/src/renderer/src/raycast-api/index.tsx",
+    "bytes": 7419,
+    "sha256": "7fc8413a72b92e8f88b0939cd93f91624018fe0765baa1e71b38b86f8cc77a64",
+    "sri": "sha256-f8hBOnK5Lo+IsJOc2T+RYkAY/gdluqHnGzi4b4zHemQ=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src/renderer/src/raycast-api/index.tsx"
+  },
+  {
+    "path": "fixtures/current/src/renderer/ui/Markdown.tsx",
+    "bytes": 7492,
+    "sha256": "d205312b35293a433d5398e4edf1dcc96662cacd34036e8ee3ec503f65eee2de",
+    "sri": "sha256-0gUxKzUpOkM9U5jk7fHcyWZiys00A26O4+xQP2Xu4t4=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src/renderer/ui/Markdown.tsx"
+  },
+  {
+    "path": "fixtures/current/src-tauri/src/native_core/extensions/catalog.rs",
+    "bytes": 23042,
+    "sha256": "0ac68124a5c77cf7ac962d5a59f0762d52fb3f0f85c571c9d15591432b17aa04",
+    "sri": "sha256-CsaBJKXHfPesli1aWfB2LVL7Pw+FxXHJ0VWRQysXqgQ=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src-tauri/src/native_core/extensions/catalog.rs"
+  },
+  {
+    "path": "fixtures/current/src-tauri/src/native_core/extensions/registry.rs",
+    "bytes": 35005,
+    "sha256": "160442cf04a65c0547ddea54149ff5a98c26572eb3aa53eb8c92a03f6406ab31",
+    "sri": "sha256-FgRCzwSmXAVH3epUFJ/1qYwmVy6zqlPrjJKgP2QGqzE=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src-tauri/src/native_core/extensions/registry.rs"
+  },
+  {
+    "path": "fixtures/current/src-tauri/src/native_core/extensions/v2_catalog.rs",
+    "bytes": 7008,
+    "sha256": "de6e471f443b2888a5d5faa55e30c130003d182d22286f10e841027cdcd0ae96",
+    "sri": "sha256-3m5HH0Q7KIil1fqlXjDBMAA9GC0iKG8Q6EECfNzQrpY=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src-tauri/src/native_core/extensions/v2_catalog.rs"
+  },
+  {
+    "path": "fixtures/current/src-tauri/src/native_core/extensions/v2_runtime.rs",
+    "bytes": 3110,
+    "sha256": "df96675ba916a3d70b8e0e5da76f7a9422d238cc3fbe3a5a6178fef21662a6a0",
+    "sri": "sha256-35ZnW6kWo9cLjg5dp296lCLSOMw/vjpaYXj+8hZipqA=",
+    "source": "git-object:Tezbar-host@fe71ca87f21ac4ff31505010c228f8abda0f2a89:src-tauri/src/native_core/extensions/v2_runtime.rs"
+  },
+  {
+    "path": "fixtures/libraries/ammonia-4.0.0/Cargo.toml.txt",
+    "bytes": 1220,
+    "sha256": "4258be612e5c645cb32c4429d44da4ae145ab3ac1c5398b133688cee41ff6d53",
+    "sri": "sha256-Qli+YS5cZFyzLEQp1E2krhRas6wcU5ixM2iM7kH/bVM=",
+    "source": "crates.io:ammonia-4.0.0:Cargo.toml.txt"
+  },
+  {
+    "path": "fixtures/libraries/ammonia-4.0.0/src/lib.rs",
+    "bytes": 133621,
+    "sha256": "e45ce689032b27cd8c622170f1ceca1cea7a1496ae3187b3a91f21e9bcf98a15",
+    "sri": "sha256-5FzmiQMrJ82MYiFw8c7KHOp6FJauMYezqR8h6bz5ihU=",
+    "source": "crates.io:ammonia-4.0.0:src/lib.rs"
+  },
+  {
+    "path": "fixtures/libraries/file-id-0.2.3/Cargo.toml.txt",
+    "bytes": 1301,
+    "sha256": "9f45f6175fccbfdf1c52ed4046d1f8ddb13a491d97932a6542264ab9c48cbf5e",
+    "sri": "sha256-n0X2F1/Mv98cUu1ARtH43bE6SR2XkyplQiZKucSMv14=",
+    "source": "crates.io:file-id-0.2.3:Cargo.toml.txt"
+  },
+  {
+    "path": "fixtures/libraries/file-id-0.2.3/src/lib.rs",
+    "bytes": 6616,
+    "sha256": "8db4c1c00f68e1d6a897d7dfbe4db47f4f402cdf142360e0d1c188b35063e0c2",
+    "sri": "sha256-jbTBwA9o4daol9ffvk20f09ALN8UI2Dg0cGIs1Bj4MI=",
+    "source": "crates.io:file-id-0.2.3:src/lib.rs"
+  },
+  {
+    "path": "fixtures/libraries/marked/LICENSE.md",
+    "bytes": 2942,
+    "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c",
+    "sri": "sha256-jjo/gvWaYJWPVsoI9EVkfDKkcz3HymwsRvbriYRxq5w=",
+    "source": "https://registry.npmjs.org/marked/-/marked-9.1.6.tgz#LICENSE.md"
+  },
+  {
+    "path": "fixtures/libraries/marked/lib/marked.cjs",
+    "bytes": 89655,
+    "sha256": "87e5d4105b808625abaaaeb48e7d03be4950779589c37e7f2920480a636c768f",
+    "sri": "sha256-h+XUEFuAhiWrqq60jn0DvklQd5WJw35/KSBICmNsdo8=",
+    "source": "https://registry.npmjs.org/marked/-/marked-9.1.6.tgz#lib/marked.cjs"
+  },
+  {
+    "path": "fixtures/libraries/marked/marked-9.1.6.tgz",
+    "bytes": 168127,
+    "sha256": "6cee05496e2e90947f90f431fdeb66f3093716f81d3c2b65caccd6bf0542bd2b",
+    "sri": "sha256-bO4FSW4ukJR/kPQx/etm8wk3FvgdPCtlyszWvwVCvSs=",
+    "source": "https://registry.npmjs.org/marked/-/marked-9.1.6.tgz#marked-9.1.6.tgz"
+  },
+  {
+    "path": "fixtures/libraries/marked/package.json",
+    "bytes": 3640,
+    "sha256": "5e32975a0f2e9e8afcdfe30e6529b04307c92086efd7a227442a3481a7dfd222",
+    "sri": "sha256-XjKXWg8unor83+MOZSmwQwfJIIbv16InRCo0gaff0iI=",
+    "source": "https://registry.npmjs.org/marked/-/marked-9.1.6.tgz#package.json"
+  },
+  {
+    "path": "fixtures/libraries/pulldown-cmark-0.13.0/Cargo.toml.txt",
+    "bytes": 2476,
+    "sha256": "cf5e2d43711e81ebc6c27ae8051627942b61f95a80bf7fa9ebfc4c25e940536c",
+    "sri": "sha256-z14tQ3EegevGwnroBRYnlCth+VqAv3+p6/xMJelAU2w=",
+    "source": "crates.io:pulldown-cmark-0.13.0:Cargo.toml.txt"
+  },
+  {
+    "path": "fixtures/libraries/pulldown-cmark-0.13.0/src/lib.rs",
+    "bytes": 26638,
+    "sha256": "f916b7bf0c3035776d6d5f8f62c4619855b291ba245b0ee1f46f980c59ce3919",
+    "sri": "sha256-+Ra3vwwwNXdtbV+PYsRhmFWykbokWw7h9G+YDFnOORk=",
+    "source": "crates.io:pulldown-cmark-0.13.0:src/lib.rs"
+  },
+  {
+    "path": "fixtures/licenses/npm/ajv/LICENSE",
+    "bytes": 1090,
+    "sha256": "a05350a88e318e4f5f2c2a1ff1e2e88daa4dd38e6e78b71cccae422bdc762cc3",
+    "sri": "sha256-oFNQqI4xjk9fLCof8eLojapN045ueLcczK5CK9x2LMM=",
+    "source": "npm-locked:scripts/package-lock.json:ajv/LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/npm/ajv/package.json",
+    "bytes": 4457,
+    "sha256": "ce1539e6f4e0f345ed402c47137d2679497b2035d4a4f420ee11acdde03dea92",
+    "sri": "sha256-zhU55vTg80XtQCxHE30meUl7IDXUpPQg7hGs3eA96pI=",
+    "source": "npm-locked:scripts/package-lock.json:ajv/package.json"
+  },
+  {
+    "path": "fixtures/licenses/npm/dompurify/LICENSE",
+    "bytes": 27729,
+    "sha256": "1b02e03c3fb4f87d476c128f0eb9def1f5a1709d28b180465228bd41574623b7",
+    "sri": "sha256-GwLgPD+0+H1HbBKPDrne8fWhcJ0osYBGUii9QVdGI7c=",
+    "source": "npm-locked:scripts/package-lock.json:dompurify/LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/npm/dompurify/package.json",
+    "bytes": 5969,
+    "sha256": "8f7e6838d03bbf9aa12ba3e2fa4b893915c11f22ed29c2f5a0051bf7a3c67758",
+    "sri": "sha256-j35oONA7v5qhK6Pi+kuJORXBHyLtKcL1oAUb96PGd1g=",
+    "source": "npm-locked:scripts/package-lock.json:dompurify/package.json"
+  },
+  {
+    "path": "fixtures/licenses/npm/highlight.js/LICENSE",
+    "bytes": 1514,
+    "sha256": "6c081431591d9df696c82dc598fe1423765b8a299b200ed00b281afd0f64c490",
+    "sri": "sha256-bAgUMVkdnfaWyC3FmP4UI3ZbiimbIA7QCyga/Q9kxJA=",
+    "source": "npm-locked:scripts/package-lock.json:highlight.js/LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/npm/highlight.js/package.json",
+    "bytes": 3568,
+    "sha256": "c62d61e26896bac4ea1ed0e014a0e588a51330e49b76047a430ea44b9bb863aa",
+    "sri": "sha256-xi1h4miWusTqHtDgFKDliKUTMOSbdgR6Qw6kS5u4Y6o=",
+    "source": "npm-locked:scripts/package-lock.json:highlight.js/package.json"
+  },
+  {
+    "path": "fixtures/licenses/npm/jsdom/LICENSE.txt",
+    "bytes": 1056,
+    "sha256": "242d37e7cab25cbafc36cc973ee88f9345fddf066afe4f72b7ac3d9ad4e24cce",
+    "sri": "sha256-JC0358qyXLr8NsyXPuiPk0X93wZq/k9yt6w9mtTiTM4=",
+    "source": "npm-locked:scripts/package-lock.json:jsdom/LICENSE.txt"
+  },
+  {
+    "path": "fixtures/licenses/npm/jsdom/package.json",
+    "bytes": 2957,
+    "sha256": "9670cfae0de2c46a3276fa20815328e3903275b04cc8969a6f6be01f2c580043",
+    "sri": "sha256-lnDPrg3ixGoydvoggVMo45AydbBMyJaab2vgHyxYAEM=",
+    "source": "npm-locked:scripts/package-lock.json:jsdom/package.json"
+  },
+  {
+    "path": "fixtures/licenses/npm/marked/LICENSE.md",
+    "bytes": 2942,
+    "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c",
+    "sri": "sha256-jjo/gvWaYJWPVsoI9EVkfDKkcz3HymwsRvbriYRxq5w=",
+    "source": "npm-locked:scripts/package-lock.json:marked/LICENSE.md"
+  },
+  {
+    "path": "fixtures/licenses/npm/marked/package.json",
+    "bytes": 3396,
+    "sha256": "cf405d93a1423b7f52096714a07cae76dac5e1c87edb0f8745d7f4512fdb9e18",
+    "sri": "sha256-z0Bdk6FCO39SCWcUoHyudtrF4ch+2w+HRdf0US/bnhg=",
+    "source": "npm-locked:scripts/package-lock.json:marked/package.json"
+  },
+  {
+    "path": "fixtures/licenses/npm/marked-highlight/LICENSE",
+    "bytes": 1066,
+    "sha256": "a846b93fda6af8008a89d1394d827afc60d62eebb70c68efbfeeafe0b01928ed",
+    "sri": "sha256-qEa5P9pq+ACKidE5TYJ6/GDWLuu3DGjvv+6v4LAZKO0=",
+    "source": "npm-locked:scripts/package-lock.json:marked-highlight/LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/npm/marked-highlight/package.json",
+    "bytes": 1903,
+    "sha256": "47076085f4b9fb68fa4c4cb5b68847ced9c80078b1050e402b5b5ade53631484",
+    "sri": "sha256-RwdghfS5+2j6TEy1tohHztnIAHixBQ5AK1ta3lNjFIQ=",
+    "source": "npm-locked:scripts/package-lock.json:marked-highlight/package.json"
+  },
+  {
+    "path": "fixtures/licenses/rust/addr2line@0.25.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:addr2line@0.25.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/addr2line@0.25.1/LICENSE-MIT",
+    "bytes": 1069,
+    "sha256": "e99d88d232bf57d70f0fb87f6b496d44b6653f99f8a63d250a54c61ea4bcde40",
+    "sri": "sha256-6Z2I0jK/V9cPD7h/a0ltRLZlP5n4pj0lClTGHqS83kA=",
+    "source": "crates.io:addr2line@0.25.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/adler2@2.0.1/LICENSE-0BSD",
+    "bytes": 665,
+    "sha256": "861399f8c21c042b110517e76dc6b63a2b334276c8cf17412fc3c8908ca8dc17",
+    "sri": "sha256-hhOZ+MIcBCsRBRfnbca2OiszQnbIzxdBL8PIkIyo3Bc=",
+    "source": "crates.io:adler2@2.0.1:LICENSE-0BSD"
+  },
+  {
+    "path": "fixtures/licenses/rust/adler2@2.0.1/LICENSE-APACHE",
+    "bytes": 10860,
+    "sha256": "8ada45cd9f843acf64e4722ae262c622a2b3b3007c7310ef36ac1061a30f6adb",
+    "sri": "sha256-itpFzZ+EOs9k5HIq4mLGIqKzswB8cxDvNqwQYaMPats=",
+    "source": "crates.io:adler2@2.0.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/adler2@2.0.1/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:adler2@2.0.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/aho-corasick@1.1.5/COPYING",
+    "bytes": 126,
+    "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f",
+    "sri": "sha256-AcJmvO1KQ02gBRF01r7hakyCz2NOJnm2FV1A11ASOQ8=",
+    "source": "crates.io:aho-corasick@1.1.5:COPYING"
+  },
+  {
+    "path": "fixtures/licenses/rust/aho-corasick@1.1.5/LICENSE-MIT",
+    "bytes": 1081,
+    "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f",
+    "sri": "sha256-D5aoOEDhRuQ8DslqIuwfOS4GgObBIm5vO6h+B0CvhQ8=",
+    "source": "crates.io:aho-corasick@1.1.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/aho-corasick@1.1.5/UNLICENSE",
+    "bytes": 1211,
+    "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+    "sri": "sha256-fhLl30uuEsshWBuhV87SDhmGoFCN0Q0Oikq5pM+U6Fw=",
+    "source": "crates.io:aho-corasick@1.1.5:UNLICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/ammonia@4.0.0/LICENSE-APACHE",
+    "bytes": 11358,
+    "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08",
+    "sri": "sha256-xllut76FgcGL5zbIRvuRc7aezPbvlMUTWJPsVr2Sugg=",
+    "source": "crates.io:ammonia@4.0.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/ammonia@4.0.0/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6ced8d1b9d96dae227bb1b31876359bbd089d8c18378e4e42eb45b84f29e9ae9",
+    "sri": "sha256-bO2NG52W2uInuxsxh2NZu9CJ2MGDeOTkLrRbhPKemuk=",
+    "source": "crates.io:ammonia@4.0.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/android-tzdata@0.1.1/LICENSE-APACHE",
+    "bytes": 10947,
+    "sha256": "4458503dd48e88c4e0b945fb252a08b93c40ec757309b8ffa7c594dfa1e35104",
+    "sri": "sha256-RFhQPdSOiMTguUX7JSoIuTxA7HVzCbj/p8WU36HjUQQ=",
+    "source": "crates.io:android-tzdata@0.1.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/android-tzdata@0.1.1/LICENSE-MIT",
+    "bytes": 1069,
+    "sha256": "002c2696d92b5c8cf956c11072baa58eaf9f6ade995c031ea635c6a1ee342ad1",
+    "sri": "sha256-ACwmltkrXIz5VsEQcrqljq+fat6ZXAMepjXGoe40KtE=",
+    "source": "crates.io:android-tzdata@0.1.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/android_system_properties@0.1.6/LICENSE-APACHE",
+    "bytes": 554,
+    "sha256": "216486f29671a4262efe32af6d84a75bef398127f8c5f369b5c8305983887a06",
+    "sri": "sha256-IWSG8pZxpCYu/jKvbYSnW+85gSf4xfNptcgwWYOIegY=",
+    "source": "crates.io:android_system_properties@0.1.6:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/android_system_properties@0.1.6/LICENSE-MIT",
+    "bytes": 1080,
+    "sha256": "80f275e90d799911ed3830a7f242a2ef5a4ade2092fe0aa07bfb2d2cf2f2b95e",
+    "sri": "sha256-gPJ16Q15mRHtODCn8kKi71pK3iCS/gqge/stLPLyuV4=",
+    "source": "crates.io:android_system_properties@0.1.6:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/autocfg@1.5.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:autocfg@1.5.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/autocfg@1.5.1/LICENSE-MIT",
+    "bytes": 1054,
+    "sha256": "27995d58ad5c1145c1a8cd86244ce844886958a35eb2b78c6b772748669999ac",
+    "sri": "sha256-J5ldWK1cEUXBqM2GJEzoRIhpWKNesreMa3cnSGaZmaw=",
+    "source": "crates.io:autocfg@1.5.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/backtrace@0.3.76/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:backtrace@0.3.76:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/backtrace@0.3.76/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:backtrace@0.3.76:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/base64@0.22.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:base64@0.22.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/base64@0.22.1/LICENSE-MIT",
+    "bytes": 1076,
+    "sha256": "0dd882e53de11566d50f8e8e2d5a651bcf3fabee4987d70f306233cf39094ba7",
+    "sri": "sha256-DdiC5T3hFWbVD46OLVplG88/q+5Jh9cPMGIzzzkJS6c=",
+    "source": "crates.io:base64@0.22.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/bitflags@2.13.2/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:bitflags@2.13.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/bitflags@2.13.2/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:bitflags@2.13.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/block-buffer@0.10.4/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5",
+    "sri": "sha256-qQQDIcNxLY/QsJz1KxdEXeBKI6EBZQSa4YfNOeXIa+U=",
+    "source": "crates.io:block-buffer@0.10.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/block-buffer@0.10.4/LICENSE-MIT",
+    "bytes": 1082,
+    "sha256": "d5c22aa3118d240e877ad41c5d9fa232f9c77d757d4aac0c2f943afc0a95e0ef",
+    "sri": "sha256-1cIqoxGNJA6HetQcXZ+iMvnHfXV9SqwML5Q6/AqV4O8=",
+    "source": "crates.io:block-buffer@0.10.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/bumpalo@3.20.3/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:bumpalo@3.20.3:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/bumpalo@3.20.3/LICENSE-MIT",
+    "bytes": 1059,
+    "sha256": "65f94e99ddaf4f5d1782a6dae23f35d4293a9a01444a13135a6887017d353cee",
+    "sri": "sha256-ZflOmd2vT10Xgqba4j811Ck6mgFEShMTWmiHAX01PO4=",
+    "source": "crates.io:bumpalo@3.20.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/cc@1.10.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:cc@1.10.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/cc@1.10.0/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:cc@1.10.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/cfg-if@1.0.5/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:cfg-if@1.0.5:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/cfg-if@1.0.5/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:cfg-if@1.0.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/chrono@0.4.40/LICENSE.txt",
+    "bytes": 12307,
+    "sha256": "a3d4e565d73d108b07074757733e1dcd3ee20617350a135e1122935881311d50",
+    "sri": "sha256-o9TlZdc9EIsHB0dXcz4dzT7iBhc1ChNeESKTWIExHVA=",
+    "source": "crates.io:chrono@0.4.40:LICENSE.txt"
+  },
+  {
+    "path": "fixtures/licenses/rust/core-foundation-sys@0.8.7/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:core-foundation-sys@0.8.7:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/core-foundation-sys@0.8.7/LICENSE-MIT",
+    "bytes": 1067,
+    "sha256": "62065228e42caebca7e7d7db1204cbb867033de5982ca4009928915e4095f3a3",
+    "sri": "sha256-YgZSKOQsrryn59fbEgTLuGcDPeWYLKQAmSiRXkCV86M=",
+    "source": "crates.io:core-foundation-sys@0.8.7:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/cpufeatures@0.2.17/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5",
+    "sri": "sha256-qQQDIcNxLY/QsJz1KxdEXeBKI6EBZQSa4YfNOeXIa+U=",
+    "source": "crates.io:cpufeatures@0.2.17:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/cpufeatures@0.2.17/LICENSE-MIT",
+    "bytes": 1082,
+    "sha256": "ae9baa7beea910273c2f384c2a6b721fb7bd02bda3436074a1072e4ee689f985",
+    "sri": "sha256-rpuqe+6pECc8LzhMKmtyH7e9Ar2jQ2B0oQcuTuaJ+YU=",
+    "source": "crates.io:cpufeatures@0.2.17:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/crypto-common@0.1.7/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5",
+    "sri": "sha256-qQQDIcNxLY/QsJz1KxdEXeBKI6EBZQSa4YfNOeXIa+U=",
+    "source": "crates.io:crypto-common@0.1.7:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/crypto-common@0.1.7/LICENSE-MIT",
+    "bytes": 1065,
+    "sha256": "3521672491a3479422d5fe1aca6645dd2984090f85da6e5205abfb18fb7a6897",
+    "sri": "sha256-NSFnJJGjR5Qi1f4aymZF3SmECQ+F2m5SBav7GPt6aJc=",
+    "source": "crates.io:crypto-common@0.1.7:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/digest@0.10.7/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5",
+    "sri": "sha256-qQQDIcNxLY/QsJz1KxdEXeBKI6EBZQSa4YfNOeXIa+U=",
+    "source": "crates.io:digest@0.10.7:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/digest@0.10.7/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "9e0dfd2dd4173a530e238cb6adb37aa78c34c6bc7444e0e10c1ab5d8881f63ba",
+    "sri": "sha256-ng39LdQXOlMOI4y2rbN6p4w0xrx0RODhDBq12IgfY7o=",
+    "source": "crates.io:digest@0.10.7:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/errno@0.3.14/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:errno@0.3.14:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/errno@0.3.14/LICENSE-MIT",
+    "bytes": 1054,
+    "sha256": "8764a597675778ddfd4e25f81b08a05dbcf089ac05662df7613fe67f150e3aa2",
+    "sri": "sha256-h2Sll2dXeN39TiX4GwigXbzwiawFZi33YT/mfxUOOqI=",
+    "source": "crates.io:errno@0.3.14:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/fastrand@2.5.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:fastrand@2.5.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/fastrand@2.5.0/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:fastrand@2.5.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/file-id@0.2.3/LICENSE-APACHE",
+    "bytes": 10839,
+    "sha256": "b5b413d7421d728c14f33d78198d6e255a0018beef717d78c4c3f6188be3dfb4",
+    "sri": "sha256-tbQT10IdcowU8z14GY1uJVoAGL7vcX14xMP2GIvj37Q=",
+    "source": "crates.io:file-id@0.2.3:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/file-id@0.2.3/LICENSE-MIT",
+    "bytes": 1063,
+    "sha256": "b63e167d61ced1d872a588c5ac764b0dda477d62209dc4f6b6bfea5517d0a24c",
+    "sri": "sha256-tj4WfWHO0dhypYjFrHZLDdpHfWIgncT2tr/qVRfQokw=",
+    "source": "crates.io:file-id@0.2.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/find-msvc-tools@0.1.15/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:find-msvc-tools@0.1.15:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/find-msvc-tools@0.1.15/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:find-msvc-tools@0.1.15:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/form_urlencoded@1.2.2/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:form_urlencoded@1.2.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/form_urlencoded@1.2.2/LICENSE-MIT",
+    "bytes": 1072,
+    "sha256": "20c7855c364d57ea4c97889a5e8d98470a9952dade37bd9248b9a54431670e5e",
+    "sri": "sha256-IMeFXDZNV+pMl4iaXo2YRwqZUtreN72SSLmlRDFnDl4=",
+    "source": "crates.io:form_urlencoded@1.2.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/futf@0.1.5/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:futf@0.1.5:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/futf@0.1.5/LICENSE-MIT",
+    "bytes": 1061,
+    "sha256": "60a7062291b01ba068f300612cdbdc20382ac1d4934f07bcdd7167c15299f309",
+    "sri": "sha256-YKcGIpGwG6Bo8wBhLNvcIDgqwdSTTwe83XFnwVKZ8wk=",
+    "source": "crates.io:futf@0.1.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-core@0.3.34/LICENSE-APACHE",
+    "bytes": 10874,
+    "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427",
+    "sri": "sha256-J1xJHW0RYFU8Mv1hJwYdf5YGw+olq/rWyj9u0Ih4VCc=",
+    "source": "crates.io:futures-core@0.3.34:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-core@0.3.34/LICENSE-MIT",
+    "bytes": 1094,
+    "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd",
+    "sri": "sha256-ZlLIaPNd/l6O9jaBCk5Xa51mPzoX+w9WE61zWD4biP0=",
+    "source": "crates.io:futures-core@0.3.34:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-task@0.3.34/LICENSE-APACHE",
+    "bytes": 10874,
+    "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427",
+    "sri": "sha256-J1xJHW0RYFU8Mv1hJwYdf5YGw+olq/rWyj9u0Ih4VCc=",
+    "source": "crates.io:futures-task@0.3.34:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-task@0.3.34/LICENSE-MIT",
+    "bytes": 1094,
+    "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd",
+    "sri": "sha256-ZlLIaPNd/l6O9jaBCk5Xa51mPzoX+w9WE61zWD4biP0=",
+    "source": "crates.io:futures-task@0.3.34:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-util@0.3.34/LICENSE-APACHE",
+    "bytes": 10874,
+    "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427",
+    "sri": "sha256-J1xJHW0RYFU8Mv1hJwYdf5YGw+olq/rWyj9u0Ih4VCc=",
+    "source": "crates.io:futures-util@0.3.34:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/futures-util@0.3.34/LICENSE-MIT",
+    "bytes": 1094,
+    "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd",
+    "sri": "sha256-ZlLIaPNd/l6O9jaBCk5Xa51mPzoX+w9WE61zWD4biP0=",
+    "source": "crates.io:futures-util@0.3.34:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/generic-array@0.14.7/LICENSE",
+    "bytes": 1107,
+    "sha256": "c09aae9d3c77b531f56351a9947bc7446511d6b025b3255312d3e3442a9a7583",
+    "sri": "sha256-wJqunTx3tTH1Y1GplHvHRGUR1rAlsyVTEtPjRCqadYM=",
+    "source": "crates.io:generic-array@0.14.7:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/getrandom@0.2.16/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf",
+    "sri": "sha256-qv83ZTLqMKDNUzC5UCrUpMi/dpxTnIf/54gZ0Yihjr8=",
+    "source": "crates.io:getrandom@0.2.16:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/getrandom@0.2.16/LICENSE-MIT",
+    "bytes": 1130,
+    "sha256": "42fa16951ce7f24b5a467a40e5b449a1d41e662f97ca779864f053f39e097737",
+    "sri": "sha256-QvoWlRzn8ktaRnpA5bRJodQeZi+XyneYZPBT854Jdzc=",
+    "source": "crates.io:getrandom@0.2.16:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/getrandom@0.3.4/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf",
+    "sri": "sha256-qv83ZTLqMKDNUzC5UCrUpMi/dpxTnIf/54gZ0Yihjr8=",
+    "source": "crates.io:getrandom@0.3.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/getrandom@0.3.4/LICENSE-MIT",
+    "bytes": 1130,
+    "sha256": "29e9fe5074bd27e0e5d5d110394fbbcd841baee2651a3c4b4560a632702cede4",
+    "sri": "sha256-Ken+UHS9J+Dl1dEQOU+7zYQbruJlGjxLRWCmMnAs7eQ=",
+    "source": "crates.io:getrandom@0.3.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/gimli@0.32.3/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:gimli@0.32.3:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/gimli@0.32.3/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+    "sri": "sha256-e2Ps1fGQKvG2NymUc3NoPDJ0XBahDo5ikuLi3NfpCuA=",
+    "source": "crates.io:gimli@0.32.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/html5ever@0.27.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:html5ever@0.27.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/html5ever@0.27.0/LICENSE-MIT",
+    "bytes": 1076,
+    "sha256": "86dd7f026f916daf7511e39951ad8ea8cf55a8db67ae64060dacf829761c18f3",
+    "sri": "sha256-ht1/Am+Rba91EeOZUa2OqM9VqNtnrmQGDaz4KXYcGPM=",
+    "source": "crates.io:html5ever@0.27.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/iana-time-zone-haiku@0.1.2/LICENSE-APACHE",
+    "bytes": 10832,
+    "sha256": "696759d65dfe558ff7d9f031c76db19ec5c0767470fb67c4e8d990820d1e99c9",
+    "sri": "sha256-aWdZ1l3+VY/32fAxx22xnsXAdnRw+2fE6NmQgg0emck=",
+    "source": "crates.io:iana-time-zone-haiku@0.1.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/iana-time-zone-haiku@0.1.2/LICENSE-MIT",
+    "bytes": 1059,
+    "sha256": "da28ccc6b158fc2d8cccc74e99794b1cff1d29bd7bbeb019442fcf0c04c6cad9",
+    "sri": "sha256-2ijMxrFY/C2MzMdOmXlLHP8dKb17vrAZRC/PDATGytk=",
+    "source": "crates.io:iana-time-zone-haiku@0.1.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/iana-time-zone@0.1.65/LICENSE-APACHE",
+    "bytes": 10832,
+    "sha256": "696759d65dfe558ff7d9f031c76db19ec5c0767470fb67c4e8d990820d1e99c9",
+    "sri": "sha256-aWdZ1l3+VY/32fAxx22xnsXAdnRw+2fE6NmQgg0emck=",
+    "source": "crates.io:iana-time-zone@0.1.65:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/iana-time-zone@0.1.65/LICENSE-MIT",
+    "bytes": 1059,
+    "sha256": "da28ccc6b158fc2d8cccc74e99794b1cff1d29bd7bbeb019442fcf0c04c6cad9",
+    "sri": "sha256-2ijMxrFY/C2MzMdOmXlLHP8dKb17vrAZRC/PDATGytk=",
+    "source": "crates.io:iana-time-zone@0.1.65:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/idna@0.5.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:idna@0.5.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/idna@0.5.0/LICENSE-MIT",
+    "bytes": 1072,
+    "sha256": "76e972ac0f4ddb116e86e10100132a783931a596e7b9872eaa31be15cd4d751d",
+    "sri": "sha256-dulyrA9N2xFuhuEBABMqeDkxpZbnuYcuqjG+Fc1NdR0=",
+    "source": "crates.io:idna@0.5.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/itoa@1.0.18/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:itoa@1.0.18:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/itoa@1.0.18/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:itoa@1.0.18:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/js-sys@0.3.106/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:js-sys@0.3.106:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/js-sys@0.3.106/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:js-sys@0.3.106:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/libc@0.2.191/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:libc@0.2.191:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/libc@0.2.191/LICENSE-MIT",
+    "bytes": 1066,
+    "sha256": "123a331b5dbf04c30097fa43b8f858bc85df671fe776de498d01f3d6b7c1f69e",
+    "sri": "sha256-EjozG12/BMMAl/pDuPhYvIXfZx/ndt5JjQHz1rfB9p4=",
+    "source": "crates.io:libc@0.2.191:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/linux-raw-sys@0.12.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:linux-raw-sys@0.12.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/linux-raw-sys@0.12.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "bytes": 12243,
+    "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+    "sri": "sha256-JohyuYFvkP2OhdtaKNM/gVDruN0BZlP7Oe8flPJoa8U=",
+    "source": "crates.io:linux-raw-sys@0.12.1:LICENSE-Apache-2.0_WITH_LLVM-exception"
+  },
+  {
+    "path": "fixtures/licenses/rust/linux-raw-sys@0.12.1/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:linux-raw-sys@0.12.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/lock_api@0.4.14/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:lock_api@0.4.14:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/lock_api@0.4.14/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5",
+    "sri": "sha256-yadfGLmrKSeCmiCPxqos9OY7hCCIe6Kc2yZdZhmugtU=",
+    "source": "crates.io:lock_api@0.4.14:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/log@0.4.26/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:log@0.4.26:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/log@0.4.26/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:log@0.4.26:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/maplit@1.0.2/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:maplit@1.0.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/maplit@1.0.2/LICENSE-MIT",
+    "bytes": 1043,
+    "sha256": "7576269ea71f767b99297934c0b2367532690f8c4badc695edf8e04ab6a1e545",
+    "sri": "sha256-dXYmnqcfdnuZKXk0wLI2dTJpD4xLrcaV7fjgSrah5UU=",
+    "source": "crates.io:maplit@1.0.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/markup5ever@0.12.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:markup5ever@0.12.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/markup5ever@0.12.1/LICENSE-MIT",
+    "bytes": 1076,
+    "sha256": "86dd7f026f916daf7511e39951ad8ea8cf55a8db67ae64060dacf829761c18f3",
+    "sri": "sha256-ht1/Am+Rba91EeOZUa2OqM9VqNtnrmQGDaz4KXYcGPM=",
+    "source": "crates.io:markup5ever@0.12.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/memchr@2.8.3/COPYING",
+    "bytes": 126,
+    "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f",
+    "sri": "sha256-AcJmvO1KQ02gBRF01r7hakyCz2NOJnm2FV1A11ASOQ8=",
+    "source": "crates.io:memchr@2.8.3:COPYING"
+  },
+  {
+    "path": "fixtures/licenses/rust/memchr@2.8.3/LICENSE-MIT",
+    "bytes": 1081,
+    "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f",
+    "sri": "sha256-D5aoOEDhRuQ8DslqIuwfOS4GgObBIm5vO6h+B0CvhQ8=",
+    "source": "crates.io:memchr@2.8.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/memchr@2.8.3/UNLICENSE",
+    "bytes": 1211,
+    "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+    "sri": "sha256-fhLl30uuEsshWBuhV87SDhmGoFCN0Q0Oikq5pM+U6Fw=",
+    "source": "crates.io:memchr@2.8.3:UNLICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/miniz_oxide@0.8.9/LICENSE",
+    "bytes": 1213,
+    "sha256": "4108245a1f2df9d4e94df8abed5b4ba0759bb2f9b40a6b939f1be141077ae50b",
+    "sri": "sha256-QQgkWh8t+dTpTfir7VtLoHWbsvm0CmuTnxvhQQd65Qs=",
+    "source": "crates.io:miniz_oxide@0.8.9:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/miniz_oxide@0.8.9/LICENSE-APACHE.md",
+    "bytes": 10174,
+    "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "sri": "sha256-DVQuDIgE45qn836wDaWnYhSdxoLXgpRRKH4RuTjpRZQ=",
+    "source": "crates.io:miniz_oxide@0.8.9:LICENSE-APACHE.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/miniz_oxide@0.8.9/LICENSE-MIT.md",
+    "bytes": 1212,
+    "sha256": "799e9ca9d179295ef372f25d3769cdda7d25bb2668add6a6a1e22d1e4c678b8d",
+    "sri": "sha256-eZ6cqdF5KV7zcvJdN2nN2n0luyZordamoeItHkxni40=",
+    "source": "crates.io:miniz_oxide@0.8.9:LICENSE-MIT.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/miniz_oxide@0.8.9/LICENSE-ZLIB.md",
+    "bytes": 984,
+    "sha256": "0a54e647fe54104658b5e563c04c6f9edf251710e47bce692e0bd990a4ddaa39",
+    "sri": "sha256-ClTmR/5UEEZYteVjwExvnt8lFxDke85pLgvZkKTdqjk=",
+    "source": "crates.io:miniz_oxide@0.8.9:LICENSE-ZLIB.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/new_debug_unreachable@1.0.6/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "f7715d38a3fa1b4ac97c5729740752505a39cb92ee83ab5b102aeb5eaa7cdea4",
+    "sri": "sha256-93FdOKP6G0rJfFcpdAdSUFo5y5Lug6tbECrrXqp83qQ=",
+    "source": "crates.io:new_debug_unreachable@1.0.6:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/num-traits@0.2.19/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:num-traits@0.2.19:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/num-traits@0.2.19/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:num-traits@0.2.19:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/object@0.37.3/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:object@0.37.3:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/object@0.37.3/LICENSE-MIT",
+    "bytes": 1064,
+    "sha256": "0b74dfa0bcee5c420c6b7f67b4b2658f9ab8388c97b8e733975f2cecbdd668a6",
+    "sri": "sha256-C3TfoLzuXEIMa39ntLJlj5q4OIyXuOczl18s7L3WaKY=",
+    "source": "crates.io:object@0.37.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/once_cell@1.21.4/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:once_cell@1.21.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/once_cell@1.21.4/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:once_cell@1.21.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/parking_lot@0.12.5/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:parking_lot@0.12.5:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/parking_lot@0.12.5/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5",
+    "sri": "sha256-yadfGLmrKSeCmiCPxqos9OY7hCCIe6Kc2yZdZhmugtU=",
+    "source": "crates.io:parking_lot@0.12.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/parking_lot_core@0.9.12/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:parking_lot_core@0.9.12:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/parking_lot_core@0.9.12/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5",
+    "sri": "sha256-yadfGLmrKSeCmiCPxqos9OY7hCCIe6Kc2yZdZhmugtU=",
+    "source": "crates.io:parking_lot_core@0.9.12:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/percent-encoding@2.3.2/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:percent-encoding@2.3.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/percent-encoding@2.3.2/LICENSE-MIT",
+    "bytes": 1072,
+    "sha256": "b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5",
+    "sri": "sha256-s48R9glnBubeVT2r4qftFC1ZtvqMl+KQxnSWFUdFzdU=",
+    "source": "crates.io:percent-encoding@2.3.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/phf@0.11.3/LICENSE",
+    "bytes": 1099,
+    "sha256": "0ab4d106b6faac07fb6a051815fd1b4d862d730895e2d7d7358c2f13565e7a38",
+    "sri": "sha256-CrTRBrb6rAf7agUYFf0bTYYtcwiV4tfXNYwvE1Zeejg=",
+    "source": "crates.io:phf@0.11.3:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/phf_codegen@0.11.3/LICENSE",
+    "bytes": 1099,
+    "sha256": "0ab4d106b6faac07fb6a051815fd1b4d862d730895e2d7d7358c2f13565e7a38",
+    "sri": "sha256-CrTRBrb6rAf7agUYFf0bTYYtcwiV4tfXNYwvE1Zeejg=",
+    "source": "crates.io:phf_codegen@0.11.3:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/phf_generator@0.11.3/LICENSE",
+    "bytes": 1099,
+    "sha256": "0ab4d106b6faac07fb6a051815fd1b4d862d730895e2d7d7358c2f13565e7a38",
+    "sri": "sha256-CrTRBrb6rAf7agUYFf0bTYYtcwiV4tfXNYwvE1Zeejg=",
+    "source": "crates.io:phf_generator@0.11.3:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/phf_shared@0.11.3/LICENSE",
+    "bytes": 1099,
+    "sha256": "0ab4d106b6faac07fb6a051815fd1b4d862d730895e2d7d7358c2f13565e7a38",
+    "sri": "sha256-CrTRBrb6rAf7agUYFf0bTYYtcwiV4tfXNYwvE1Zeejg=",
+    "source": "crates.io:phf_shared@0.11.3:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/pin-project-lite@0.2.17/LICENSE-APACHE",
+    "bytes": 10174,
+    "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "sri": "sha256-DVQuDIgE45qn836wDaWnYhSdxoLXgpRRKH4RuTjpRZQ=",
+    "source": "crates.io:pin-project-lite@0.2.17:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/pin-project-lite@0.2.17/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:pin-project-lite@0.2.17:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/precomputed-hash@0.1.1/LICENSE",
+    "bytes": 1078,
+    "sha256": "7ca6700600dfa9c9497bf5556365067daa802c871ea78239f129309c7a2048f7",
+    "sri": "sha256-fKZwBgDfqclJe/VVY2UGfaqALIcep4I58SkwnHogSPc=",
+    "source": "crates.io:precomputed-hash@0.1.1:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/proc-macro2@1.0.107/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:proc-macro2@1.0.107:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/proc-macro2@1.0.107/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:proc-macro2@1.0.107:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/pulldown-cmark@0.13.0/LICENSE",
+    "bytes": 1089,
+    "sha256": "c4f10f55904bdb9f27d3fbf94c354926d6cfe8b982276e556238c258941b243b",
+    "sri": "sha256-xPEPVZBL258n0/v5TDVJJtbP6LmCJ25VYjjCWJQbJDs=",
+    "source": "crates.io:pulldown-cmark@0.13.0:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/quote@1.0.47/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:quote@1.0.47:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/quote@1.0.47/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:quote@1.0.47:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/rand@0.8.8/LICENSE-APACHE",
+    "bytes": 9724,
+    "sha256": "35242e7a83f69875e6edeff02291e688c97caafe2f8902e4e19b49d3e78b4cab",
+    "sri": "sha256-NSQueoP2mHXm7e/wIpHmiMl8qv4viQLk4ZtJ0+eLTKs=",
+    "source": "crates.io:rand@0.8.8:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/rand@0.8.8/LICENSE-MIT",
+    "bytes": 1117,
+    "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b",
+    "sri": "sha256-IJ+74K1S2SNeN7rfnK3+Tb3IcgMXnAiZ5zizmt5CF3s=",
+    "source": "crates.io:rand@0.8.8:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/rand_core@0.6.4/LICENSE-APACHE",
+    "bytes": 10282,
+    "sha256": "6df43f6f4b5d4587f3d8d71e45532c688fd168afa5fe89d571cb32fa09c4ef51",
+    "sri": "sha256-bfQ/b0tdRYfz2NceRVMsaI/RaK+l/onVccsy+gnE71E=",
+    "source": "crates.io:rand_core@0.6.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/rand_core@0.6.4/LICENSE-MIT",
+    "bytes": 1117,
+    "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b",
+    "sri": "sha256-IJ+74K1S2SNeN7rfnK3+Tb3IcgMXnAiZ5zizmt5CF3s=",
+    "source": "crates.io:rand_core@0.6.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/redox_syscall@0.5.18/LICENSE",
+    "bytes": 1076,
+    "sha256": "efcfee7981ff72431fffb06925cad00a23dce079ed4354f61030ad5abdb78829",
+    "sri": "sha256-78/ueYH/ckMf/7BpJcrQCiPc4HntQ1T2EDCtWr23iCk=",
+    "source": "crates.io:redox_syscall@0.5.18:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex-automata@0.4.18/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:regex-automata@0.4.18:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex-automata@0.4.18/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:regex-automata@0.4.18:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex-syntax@0.8.11/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:regex-syntax@0.8.11:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex-syntax@0.8.11/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:regex-syntax@0.8.11:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex@1.11.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:regex@1.11.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/regex@1.11.1/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "sri": "sha256-ZIW47TENPwNAvxrR9HZFBpzkBp3Ma7RsfVxvr0HeH9s=",
+    "source": "crates.io:regex@1.11.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustc-demangle@0.1.28/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:rustc-demangle@0.1.28:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustc-demangle@0.1.28/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:rustc-demangle@0.1.28:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustix@1.1.5/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:rustix@1.1.5:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustix@1.1.5/LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "bytes": 12243,
+    "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+    "sri": "sha256-JohyuYFvkP2OhdtaKNM/gVDruN0BZlP7Oe8flPJoa8U=",
+    "source": "crates.io:rustix@1.1.5:LICENSE-Apache-2.0_WITH_LLVM-exception"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustix@1.1.5/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:rustix@1.1.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustversion@1.0.23/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:rustversion@1.0.23:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/rustversion@1.0.23/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:rustversion@1.0.23:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/ryu@1.0.23/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:ryu@1.0.23:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/ryu@1.0.23/LICENSE-BOOST",
+    "bytes": 1338,
+    "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+    "sri": "sha256-yb/3VziSIZPmf6cm+iJVNYcNKqEFn5FFLEEXNihK1WY=",
+    "source": "crates.io:ryu@1.0.23:LICENSE-BOOST"
+  },
+  {
+    "path": "fixtures/licenses/rust/scopeguard@1.2.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:scopeguard@1.2.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/scopeguard@1.2.0/LICENSE-MIT",
+    "bytes": 1097,
+    "sha256": "fb77f0a9c53e473abe5103c8632ef9f0f2874d4fb3f17cb2d8c661aab9cee9d7",
+    "sri": "sha256-+3fwqcU+Rzq+UQPIYy758PKHTU+z8Xyy2MZhqrnO6dc=",
+    "source": "crates.io:scopeguard@1.2.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde@1.0.219/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:serde@1.0.219:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde@1.0.219/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:serde@1.0.219:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde_derive@1.0.219/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:serde_derive@1.0.219:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde_derive@1.0.219/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:serde_derive@1.0.219:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde_json@1.0.140/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:serde_json@1.0.140:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/serde_json@1.0.140/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:serde_json@1.0.140:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/sha2@0.10.8/LICENSE-APACHE",
+    "bytes": 10849,
+    "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5",
+    "sri": "sha256-qQQDIcNxLY/QsJz1KxdEXeBKI6EBZQSa4YfNOeXIa+U=",
+    "source": "crates.io:sha2@0.10.8:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/sha2@0.10.8/LICENSE-MIT",
+    "bytes": 1138,
+    "sha256": "b4eb00df6e2a4d22518fcaa6a2b4646f249b3a3c9814509b22bd2091f1392ff1",
+    "sri": "sha256-tOsA324qTSJRj8qmorRkbySbOjyYFFCbIr0gkfE5L/E=",
+    "source": "crates.io:sha2@0.10.8:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/shlex@2.0.1/LICENSE-APACHE",
+    "bytes": 566,
+    "sha256": "553fffcd9b1cb158bc3e9edc35da85ca5c3b3d7d2e61c883ebcfa8a65814b583",
+    "sri": "sha256-VT//zZscsVi8Pp7cNdqFylw7PX0uYciD68+oplgUtYM=",
+    "source": "crates.io:shlex@2.0.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/shlex@2.0.1/LICENSE-MIT",
+    "bytes": 1092,
+    "sha256": "4455bf75a91154108304cb283e0fea9948c14f13e20d60887cf2552449dea3b1",
+    "sri": "sha256-RFW/dakRVBCDBMsoPg/qmUjBTxPiDWCIfPJVJEneo7E=",
+    "source": "crates.io:shlex@2.0.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/siphasher@1.0.4/COPYING",
+    "bytes": 281,
+    "sha256": "c962ee4d1d05ddc138b202b2540219ebc57893fcf97b364852094a9a94ce1365",
+    "sri": "sha256-yWLuTR0F3cE4sgKyVAIZ68V4k/z5ezZIUglKmpTOE2U=",
+    "source": "crates.io:siphasher@1.0.4:COPYING"
+  },
+  {
+    "path": "fixtures/licenses/rust/siphasher@1.0.4/LICENSE-APACHE",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "sri": "sha256-z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=",
+    "source": "crates.io:siphasher@1.0.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/siphasher@1.0.4/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "f9c4c77baa3828004ee54b8a4f2db2e88ed44a6237a493965bf551fac0fcb62d",
+    "sri": "sha256-+cTHe6o4KABO5UuKTy2y6I7USmI3pJOWW/VR+sD8ti0=",
+    "source": "crates.io:siphasher@1.0.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/slab@0.4.12/LICENSE",
+    "bytes": 1055,
+    "sha256": "8ce0830173fdac609dfb4ea603fdc002c2f4af0dc9b1a005653f5da9cf534b18",
+    "sri": "sha256-jOCDAXP9rGCd+06mA/3AAsL0rw3JsaAFZT9dqc9TSxg=",
+    "source": "crates.io:slab@0.4.12:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/smallvec@1.16.4/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:smallvec@1.16.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/smallvec@1.16.4/LICENSE-MIT",
+    "bytes": 1072,
+    "sha256": "0b28172679e0009b655da42797c03fd163a3379d5cfa67ba1f1655e974a2a1a9",
+    "sri": "sha256-CygXJnngAJtlXaQnl8A/0WOjN51c+me6HxZV6XSioak=",
+    "source": "crates.io:smallvec@1.16.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/string_cache@0.8.9/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:string_cache@0.8.9:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/string_cache@0.8.9/LICENSE-MIT",
+    "bytes": 1067,
+    "sha256": "62065228e42caebca7e7d7db1204cbb867033de5982ca4009928915e4095f3a3",
+    "sri": "sha256-YgZSKOQsrryn59fbEgTLuGcDPeWYLKQAmSiRXkCV86M=",
+    "source": "crates.io:string_cache@0.8.9:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/string_cache_codegen@0.5.4/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:string_cache_codegen@0.5.4:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/string_cache_codegen@0.5.4/LICENSE-MIT",
+    "bytes": 1067,
+    "sha256": "62065228e42caebca7e7d7db1204cbb867033de5982ca4009928915e4095f3a3",
+    "sri": "sha256-YgZSKOQsrryn59fbEgTLuGcDPeWYLKQAmSiRXkCV86M=",
+    "source": "crates.io:string_cache_codegen@0.5.4:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/syn@2.0.119/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:syn@2.0.119:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/syn@2.0.119/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:syn@2.0.119:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/syn@3.0.9/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:syn@3.0.9:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/syn@3.0.9/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:syn@3.0.9:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/tempfile@3.20.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:tempfile@3.20.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/tempfile@3.20.0/LICENSE-MIT",
+    "bytes": 1056,
+    "sha256": "8b427f5bc501764575e52ba4f9d95673cf8f6d80a86d0d06599852e1a9a20a36",
+    "sri": "sha256-i0J/W8UBdkV15Suk+dlWc8+PbYCobQ0GWZhS4amiCjY=",
+    "source": "crates.io:tempfile@3.20.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/tendril@0.4.3/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:tendril@0.4.3:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/tendril@0.4.3/LICENSE-MIT",
+    "bytes": 1061,
+    "sha256": "60a7062291b01ba068f300612cdbdc20382ac1d4934f07bcdd7167c15299f309",
+    "sri": "sha256-YKcGIpGwG6Bo8wBhLNvcIDgqwdSTTwe83XFnwVKZ8wk=",
+    "source": "crates.io:tendril@0.4.3:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/tinyvec@1.13.3/LICENSE-APACHE.md",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "sri": "sha256-z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=",
+    "source": "crates.io:tinyvec@1.13.3:LICENSE-APACHE.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/tinyvec@1.13.3/LICENSE-MIT.md",
+    "bytes": 1023,
+    "sha256": "fd80a26fbb3f644af1fa994134446702932968519797227e07a1368dea80f0bc",
+    "sri": "sha256-/YCib7s/ZErx+plBNERnApMpaFGXlyJ+B6E2jeqA8Lw=",
+    "source": "crates.io:tinyvec@1.13.3:LICENSE-MIT.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/tinyvec@1.13.3/LICENSE-ZLIB.md",
+    "bytes": 851,
+    "sha256": "84b34dd7608f7fb9b17bd588a6bf392bf7de504e2716f024a77d89f1b145a151",
+    "sri": "sha256-hLNN12CPf7mxe9WIpr85K/feUE4nFvAkp32J8bFFoVE=",
+    "source": "crates.io:tinyvec@1.13.3:LICENSE-ZLIB.md"
+  },
+  {
+    "path": "fixtures/licenses/rust/tokio-macros@2.5.0/LICENSE",
+    "bytes": 1102,
+    "sha256": "0b83dc40cba89b9922bb84b0a9c7d2768ce37c1d7e138b7424fd4549915778c9",
+    "sri": "sha256-C4PcQMuom5kiu4SwqcfSdozjfB1+E4t0JP1FSZFXeMk=",
+    "source": "crates.io:tokio-macros@2.5.0:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/tokio@1.43.0/LICENSE",
+    "bytes": 1070,
+    "sha256": "253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552",
+    "sri": "sha256-JTzQTGcUiJ3y0y8/ZNZpF5oclcdqxDxAiCxS6wa8NVI=",
+    "source": "crates.io:tokio@1.43.0:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/typenum@1.20.1/LICENSE",
+    "bytes": 17,
+    "sha256": "db11fec9946737df39ca3898d9cd8c10ec6f6c3a884a6802b0ad0b81b4e8f23a",
+    "sri": "sha256-2xH+yZRnN985yjiY2c2MEOxvbDqISmgCsK0LgbTo8jo=",
+    "source": "crates.io:typenum@1.20.1:LICENSE"
+  },
+  {
+    "path": "fixtures/licenses/rust/typenum@1.20.1/LICENSE-APACHE",
+    "bytes": 10835,
+    "sha256": "516b24e051bf5630880ebbd55c40a25ce9552ebaf8970a53e8976eb70e522406",
+    "sri": "sha256-UWsk4FG/VjCIDrvVXECiXOlVLrr4lwpT6Jdutw5SJAY=",
+    "source": "crates.io:typenum@1.20.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/typenum@1.20.1/LICENSE-MIT",
+    "bytes": 1083,
+    "sha256": "a825bd853ab71619a4923d7b4311221427848070ff44d990da39b0b274c1683f",
+    "sri": "sha256-qCW9hTq3Fhmkkj17QxEiFCeEgHD/RNmQ2jmwsnTBaD8=",
+    "source": "crates.io:typenum@1.20.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicase@2.10.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:unicase@2.10.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicase@2.10.0/LICENSE-MIT",
+    "bytes": 1063,
+    "sha256": "4f6bd11a0f17fe5b085ace1daaedb7b002a08316850dd9577c246c6a68a68e8c",
+    "sri": "sha256-T2vRGg8X/lsIWs4dqu23sAKggxaFDdlXfCRsamimjow=",
+    "source": "crates.io:unicase@2.10.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-bidi@0.3.18/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:unicode-bidi@0.3.18:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-bidi@0.3.18/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+    "sri": "sha256-e2Ps1fGQKvG2NymUc3NoPDJ0XBahDo5ikuLi3NfpCuA=",
+    "source": "crates.io:unicode-bidi@0.3.18:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-ident@1.0.27/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:unicode-ident@1.0.27:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-ident@1.0.27/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:unicode-ident@1.0.27:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-ident@1.0.27/LICENSE-UNICODE",
+    "bytes": 1995,
+    "sha256": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1",
+    "sri": "sha256-99uBBReJtyn+pSimPsTJOP3Lk9nWHZfcjMLp321H8qE=",
+    "source": "crates.io:unicode-ident@1.0.27:LICENSE-UNICODE"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-normalization@0.1.26/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:unicode-normalization@0.1.26:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-normalization@0.1.26/LICENSE-MIT",
+    "bytes": 1071,
+    "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+    "sri": "sha256-e2Ps1fGQKvG2NymUc3NoPDJ0XBahDo5ikuLi3NfpCuA=",
+    "source": "crates.io:unicode-normalization@0.1.26:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/unicode-normalization@0.1.26/LICENSE-UNICODE",
+    "bytes": 1995,
+    "sha256": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1",
+    "sri": "sha256-99uBBReJtyn+pSimPsTJOP3Lk9nWHZfcjMLp321H8qE=",
+    "source": "crates.io:unicode-normalization@0.1.26:LICENSE-UNICODE"
+  },
+  {
+    "path": "fixtures/licenses/rust/url@2.5.2/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:url@2.5.2:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/url@2.5.2/LICENSE-MIT",
+    "bytes": 1072,
+    "sha256": "76e972ac0f4ddb116e86e10100132a783931a596e7b9872eaa31be15cd4d751d",
+    "sri": "sha256-dulyrA9N2xFuhuEBABMqeDkxpZbnuYcuqjG+Fc1NdR0=",
+    "source": "crates.io:url@2.5.2:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/utf-8@0.7.6/LICENSE-APACHE",
+    "bytes": 9723,
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "sri": "sha256-Yseh419WQGiW16p8pS0MwNJyrAIrXSeW59aQXbijY2o=",
+    "source": "crates.io:utf-8@0.7.6:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/utf-8@0.7.6/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:utf-8@0.7.6:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/uuid@1.16.0/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:uuid@1.16.0:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/uuid@1.16.0/LICENSE-MIT",
+    "bytes": 1157,
+    "sha256": "436bc5a105d8e57dcd8778730f3754f7bf39c14d2f530e4cde4bd2d17a83ec3d",
+    "sri": "sha256-Q2vFoQXY5X3Nh3hzDzdU9785wU0vUw5M3kvS0XqD7D0=",
+    "source": "crates.io:uuid@1.16.0:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/version_check@0.9.5/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:version_check@0.9.5:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/version_check@0.9.5/LICENSE-MIT",
+    "bytes": 1085,
+    "sha256": "b7e650f3fce5c53249d1cdc608b54df156a97edd636cf9d23498d0cfe7aec63e",
+    "sri": "sha256-t+ZQ8/zlxTJJ0c3GCLVN8Vapft1jbPnSNJjQz+euxj4=",
+    "source": "crates.io:version_check@0.9.5:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasi@0.11.1+wasi-snapshot-preview1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasi@0.11.1+wasi-snapshot-preview1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasi@0.11.1+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "bytes": 12243,
+    "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+    "sri": "sha256-JohyuYFvkP2OhdtaKNM/gVDruN0BZlP7Oe8flPJoa8U=",
+    "source": "crates.io:wasi@0.11.1+wasi-snapshot-preview1:LICENSE-Apache-2.0_WITH_LLVM-exception"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasi@0.11.1+wasi-snapshot-preview1/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:wasi@0.11.1+wasi-snapshot-preview1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasip2@1.0.4+wasi-0.2.12/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasip2@1.0.4+wasi-0.2.12:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasip2@1.0.4+wasi-0.2.12/LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "bytes": 12243,
+    "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+    "sri": "sha256-JohyuYFvkP2OhdtaKNM/gVDruN0BZlP7Oe8flPJoa8U=",
+    "source": "crates.io:wasip2@1.0.4+wasi-0.2.12:LICENSE-Apache-2.0_WITH_LLVM-exception"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasip2@1.0.4+wasi-0.2.12/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:wasip2@1.0.4+wasi-0.2.12:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-macro-support@0.2.129/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasm-bindgen-macro-support@0.2.129:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-macro-support@0.2.129/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:wasm-bindgen-macro-support@0.2.129:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-macro@0.2.129/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasm-bindgen-macro@0.2.129:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-macro@0.2.129/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:wasm-bindgen-macro@0.2.129:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-shared@0.2.129/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasm-bindgen-shared@0.2.129:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen-shared@0.2.129/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:wasm-bindgen-shared@0.2.129:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen@0.2.129/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wasm-bindgen@0.2.129:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wasm-bindgen@0.2.129/LICENSE-MIT",
+    "bytes": 1057,
+    "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+    "sri": "sha256-N49YQLJY4necOUGPPy17K6lvHHkX3WvgcT+IMF29o5c=",
+    "source": "crates.io:wasm-bindgen@0.2.129:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-core@0.62.2/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-core@0.62.2:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-core@0.62.2/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-core@0.62.2:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-implement@0.60.2/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-implement@0.60.2:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-implement@0.60.2/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-implement@0.60.2:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-interface@0.59.3/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-interface@0.59.3:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-interface@0.59.3/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-interface@0.59.3:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-link@0.1.3/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-link@0.1.3:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-link@0.1.3/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-link@0.1.3:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-link@0.2.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-link@0.2.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-link@0.2.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-link@0.2.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-result@0.4.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-result@0.4.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-result@0.4.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-result@0.4.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-strings@0.5.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-strings@0.5.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-strings@0.5.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-strings@0.5.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.59.0/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-sys@0.59.0:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.59.0/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-sys@0.59.0:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.60.2/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-sys@0.60.2:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.60.2/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-sys@0.60.2:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.61.2/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-sys@0.61.2:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-sys@0.61.2/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-sys@0.61.2:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-targets@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-targets@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-targets@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-targets@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-targets@0.53.5/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows-targets@0.53.5:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows-targets@0.53.5/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows-targets@0.53.5:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_gnullvm@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_aarch64_gnullvm@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_gnullvm@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_aarch64_gnullvm@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_gnullvm@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_aarch64_gnullvm@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_gnullvm@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_aarch64_gnullvm@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_msvc@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_aarch64_msvc@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_msvc@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_aarch64_msvc@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_msvc@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_aarch64_msvc@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_aarch64_msvc@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_aarch64_msvc@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnu@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_gnu@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnu@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_gnu@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnu@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_gnu@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnu@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_gnu@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnullvm@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_gnullvm@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnullvm@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_gnullvm@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnullvm@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_gnullvm@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_gnullvm@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_gnullvm@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_msvc@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_msvc@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_msvc@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_msvc@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_msvc@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_i686_msvc@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_i686_msvc@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_i686_msvc@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnu@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_gnu@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnu@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_gnu@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnu@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_gnu@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnu@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_gnu@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnullvm@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_gnullvm@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnullvm@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_gnullvm@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnullvm@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_gnullvm@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_gnullvm@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_gnullvm@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_msvc@0.52.6/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_msvc@0.52.6:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_msvc@0.52.6/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_msvc@0.52.6:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_msvc@0.53.1/license-apache-2.0",
+    "bytes": 11351,
+    "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+    "sri": "sha256-wW+Nzxo2i4O+eNgm6iPeQHn+G0RpoKue4gVj83/z1Es=",
+    "source": "crates.io:windows_x86_64_msvc@0.53.1:license-apache-2.0"
+  },
+  {
+    "path": "fixtures/licenses/rust/windows_x86_64_msvc@0.53.1/license-mit",
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+    "sri": "sha256-ws/MuBL+SCEBqPBFl9/FqZkaaydIJmxHrJG2parhU4M=",
+    "source": "crates.io:windows_x86_64_msvc@0.53.1:license-mit"
+  },
+  {
+    "path": "fixtures/licenses/rust/wit-bindgen@0.57.1/LICENSE-APACHE",
+    "bytes": 10847,
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "sri": "sha256-pg7qgXUUUxZo1+AHZXMUSf4U0FnTJJ4LyTs23kX3WfI=",
+    "source": "crates.io:wit-bindgen@0.57.1:LICENSE-APACHE"
+  },
+  {
+    "path": "fixtures/licenses/rust/wit-bindgen@0.57.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+    "bytes": 12243,
+    "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+    "sri": "sha256-JohyuYFvkP2OhdtaKNM/gVDruN0BZlP7Oe8flPJoa8U=",
+    "source": "crates.io:wit-bindgen@0.57.1:LICENSE-Apache-2.0_WITH_LLVM-exception"
+  },
+  {
+    "path": "fixtures/licenses/rust/wit-bindgen@0.57.1/LICENSE-MIT",
+    "bytes": 1023,
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "sri": "sha256-I/GOA9xJ35FiL+KnYXZJdATkbO2KcV2dK2enRGVxzKM=",
+    "source": "crates.io:wit-bindgen@0.57.1:LICENSE-MIT"
+  },
+  {
+    "path": "fixtures/licenses/rust-packages.json",
+    "bytes": 46034,
+    "sha256": "6cacad565edd0527e7c40971f2521a5fda917062471baf5edfbb6ebc40924ce7",
+    "sri": "sha256-bKytVl7dBSfnxAlx8lIaX9qRcGJHG69e37tuvECSTOc=",
+    "source": "generated:Cargo.lock+registry/Cargo.toml+exact-license-files"
+  },
+  {
+    "path": "fixtures/oracle/flows.json",
+    "bytes": 4370,
+    "sha256": "56d4569545f6efd4af8287c3781be3d46ce2eccd70b31467ad9b5ed5e5dd3d90",
+    "sri": "sha256-VtRWlUX279SvgofDeBvj1Gzi7M1wsxRnrZte1eXdPZA=",
+    "source": "generated:scripts/oracle.cjs executing own TSX + marked@9.1.6"
+  },
+  {
+    "path": "fixtures/oracle/native-preview.json",
+    "bytes": 24928,
+    "sha256": "0fd1be83bc46084858734839083b9ac71bad7f49b4ce75d8fed9b4a8bf6fd7ff",
+    "sri": "sha256-D9G+g7xGCEhYc0g5CDuaxxutf0m0znXY/tm0qL9v1/8=",
+    "source": "generated:examples/preview.rs (native helper verification only)"
+  },
+  {
+    "path": "fixtures/oracle/oracle.json",
+    "bytes": 521759,
+    "sha256": "080cc123ed35a7eb848ef517b10362f80245529ba80ba08e403dcf3f35096a2f",
+    "sri": "sha256-CAzBI+01p+uEjvUXsQNi+AJFUpuoC6COQD3PPzUJai8=",
+    "source": "generated:scripts/oracle.cjs executing own TSX + marked@9.1.6"
+  },
+  {
+    "path": "fixtures/oracle/sample-styled.html",
+    "bytes": 7794,
+    "sha256": "af7ab27acfdc6890c8f737e97612997623ccffb0e48c1e6ffa565b7f195d640f",
+    "sri": "sha256-r3qyes/caJDI9zfpdhKZdiPM/7DkjB5v+lZbfxldZA8=",
+    "source": "generated:scripts/oracle.cjs executing own TSX + marked@9.1.6"
+  },
+  {
+    "path": "fixtures/oracle/styles.json",
+    "bytes": 7702,
+    "sha256": "be0c4920062e65341ebcfd14adc1fa9bba66ce36a08338dad2cff2367632bac4",
+    "sri": "sha256-vgxJIAYuZTQevP0UrcH6m7pmzjaggzja0s/yNnYyusQ=",
+    "source": "generated:scripts/oracle.cjs executing own TSX + marked@9.1.6"
+  },
+  {
+    "path": "fixtures/original/README.md",
+    "bytes": 2190,
+    "sha256": "a7ed22970f3d66d751d18768dd5144dc90e400855f2394b975e9100b9b80307d",
+    "sri": "sha256-p+0ilw89ZtdR0Ydo3VFE3JDkAIVfI5S5dekQC5uAMH0=",
+    "source": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/markdown-styler/README.md"
+  },
+  {
+    "path": "fixtures/original/assets/command-icon.png",
+    "bytes": 44175,
+    "sha256": "1048ba8570be6cdfd942e97df1a222253b63bf6e20c591b9c4565a865dc80eae",
+    "sri": "sha256-EEi6hXC+bN/ZQul98aIiJTtjv24gxZG5xFZahl3IDq4=",
+    "source": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/markdown-styler/assets/command-icon.png"
+  },
+  {
+    "path": "fixtures/original/package.json",
+    "bytes": 1033,
+    "sha256": "e6137df4519ca5f2085db8ae6ce0638251f8bdd138ebf2d7d68c0d315ca587db",
+    "sri": "sha256-5hN99FGcpfIIXbiubOBjglH4vdE46/LX1owNMVylh9s=",
+    "source": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/markdown-styler/package.json"
+  },
+  {
+    "path": "fixtures/original/repository-LICENSE",
+    "bytes": 1064,
+    "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+    "sri": "sha256-f3J/iyDN0OZfhOcLnKwvzjN9zs7k3IiVXrAS6ifwJ1U=",
+    "source": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/LICENSE"
+  },
+  {
+    "path": "fixtures/original/src/mp-style-markdown.tsx",
+    "bytes": 29025,
+    "sha256": "538efb3b012419a3e78b2349dc188c2a496c352fd4e2274d31c4e03a04100c21",
+    "sri": "sha256-U477OwEkGaPniyNJ3BiMKklsNS/U4idNMcTgOgQQDCE=",
+    "source": "https://raw.githubusercontent.com/raycast/extensions/6734d85992290066fd31a7f5bee3cca3d3545a1a/extensions/markdown-styler/src/mp-style-markdown.tsx"
+  },
+  {
+    "path": "fixtures/own/LICENSE",
+    "bytes": 1087,
+    "sha256": "1d7dbdbcd4fe14dfa08334fab20bffad23c1290f195792a3a4420dadf9912f81",
+    "sri": "sha256-HX29vNT+FN+ggzT6sgv/rSPBKQ8ZV5KjpEINrfmRL4E=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:LICENSE"
+  },
+  {
+    "path": "fixtures/own/README.md",
+    "bytes": 2190,
+    "sha256": "a7ed22970f3d66d751d18768dd5144dc90e400855f2394b975e9100b9b80307d",
+    "sri": "sha256-p+0ilw89ZtdR0Ydo3VFE3JDkAIVfI5S5dekQC5uAMH0=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:README.md"
+  },
+  {
+    "path": "fixtures/own/package-lock.json",
+    "bytes": 71469,
+    "sha256": "8932c03b213a430216b82d815c4afb0cd77f0fb4d7ae6d49cf54b2f75168182c",
+    "sri": "sha256-iTLAOyE6QwIWuC2BXEr7DNd/D7TXrm1Jz1Sy91FoGCw=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:package-lock.json"
+  },
+  {
+    "path": "fixtures/own/package.json",
+    "bytes": 1524,
+    "sha256": "fa55889d1b1fb2b4c12e360a973e2dacdec265f6c8d66450a8674281368027a8",
+    "sri": "sha256-+lWInRsfsrTBLjYKlz4trN7CZfbI1mRQqGdCgTaAJ6g=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:package.json"
+  },
+  {
+    "path": "fixtures/own/raycast-env.d.ts",
+    "bytes": 691,
+    "sha256": "83c2089ea37c5084562042279a9bf614c10c8800f6125c0bac8951b88bffe477",
+    "sri": "sha256-g8IInqN8UIRWIEInmpv2FMEMiAD2ElwLrIlRuIv/5Hc=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:raycast-env.d.ts"
+  },
+  {
+    "path": "fixtures/own/src/mp-style-markdown.tsx",
+    "bytes": 29025,
+    "sha256": "538efb3b012419a3e78b2349dc188c2a496c352fd4e2274d31c4e03a04100c21",
+    "sri": "sha256-U477OwEkGaPniyNJ3BiMKklsNS/U4idNMcTgOgQQDCE=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:src/mp-style-markdown.tsx"
+  },
+  {
+    "path": "fixtures/own/test/smoke.test.ts",
+    "bytes": 457,
+    "sha256": "2761a442cebf815590f50c5db09f750d64712c2aba5fe76e8e94b72eb59763d1",
+    "sri": "sha256-J2GkQs6/gVWQ9QxdsJ91DWRxLCq6X+dujpS3LrWXY9E=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:test/smoke.test.ts"
+  },
+  {
+    "path": "fixtures/own/tsconfig.json",
+    "bytes": 525,
+    "sha256": "bb151e8c2e5442f6f9e42b27c08d88b0f7d2c5c127268ce0aedab2ef964b1eee",
+    "sri": "sha256-uxUejC5UQvb55CsnwI2IsPfSxcEnJozgrtqy75ZLHu4=",
+    "source": "git:almatkai/markdown-styler@7bd8f532fae79ce15a2f96d62fc2538fb4b24cfd:tsconfig.json"
+  }
+]

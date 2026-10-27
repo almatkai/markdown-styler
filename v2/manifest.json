@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "com.tezbar.native.markdown-styler",
+  "slug": "markdown-styler",
+  "name": "Markdown Styler",
+  "version": "0.1.0",
+  "description": "Convert Markdown to styled HTML with inline CSS for content platforms",
+  "icon": "/extensions/icons/markdown-styler.png",
+  "runtime": "rust",
+  "replaces": ["raycast.markdown-styler"],
+  "platforms": ["macOS", "Windows"],
+  "commands": [{
+    "name": "mp-style-markdown",
+    "title": "Style Markdown",
+    "subtitle": "Convert to Styled Format",
+    "description": "Convert Markdown to styled HTML with inline CSS for content platforms",
+    "mode": "view",
+    "platforms": ["macOS", "Windows"],
+    "runtime": "rust"
+  }],
+  "verification": [
+    {"platform": "macOS", "state": "not-run", "note": "Host registration/rebuild/install and real selection/browser/clipboard/desktop QA not run"},
+    {"platform": "Windows", "state": "not-run", "note": "GNU cross-check only; host registration/rebuild/install and desktop QA not run"}
+  ]
+}

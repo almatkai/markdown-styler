@@ -1,0 +1,64 @@
+--- a/src-tauri/src/native_core/extensions/v2_catalog.rs
++++ b/src-tauri/src/native_core/extensions/v2_catalog.rs
+@@ -66,9 +66,18 @@
+         .collect()
+ }
+ 
++// Only app-bundled paths; arbitrary filesystem paths remain rejected.
++pub(super) fn bundled_icon(value: &str) -> bool {
++    let Some(name) = value.strip_prefix("/extensions/icons/")
++        .or_else(|| value.strip_prefix("/extensions/artwork/")) else { return false };
++    let Some((stem, extension)) = name.rsplit_once('.') else { return false };
++    !stem.is_empty() && stem.bytes().all(|b| b.is_ascii_lowercase() || b.is_ascii_digit() || b == b'-')
++        && matches!(extension, "png" | "webp" | "svg")
++}
++
+ pub(super) fn store_item(native: Value) -> Value {
+     let icon_val = native["icon"].as_str().unwrap_or("");
+-    let icon_url = if icon_val.starts_with("http") {
++    let icon_url = if icon_val.starts_with("http") || bundled_icon(icon_val) {
+         json!(icon_val)
+     } else {
+         Value::Null
+--- a/src-tauri/src/native_core/extensions/registry.rs
++++ b/src-tauri/src/native_core/extensions/registry.rs
+@@ -220,6 +220,9 @@
+     if name.starts_with("https://") || name.starts_with("http://") {
+         return Some(name.into());
+     }
++    if extension.id.starts_with("com.tezbar.native.") && super::v2_catalog::bundled_icon(name) {
++        return Some(name.into());
++    }
+     let relative = Path::new(name.strip_prefix("./").unwrap_or(name));
+     if relative
+         .components()
+@@ -253,7 +256,7 @@
+     let Some(path) = icon_path(extension) else {
+         return Value::Null;
+     };
+-    if path.starts_with("http") {
++    if path.starts_with("http") || super::v2_catalog::bundled_icon(&path) {
+         return json!(path);
+     }
+     let Ok(bytes) = std::fs::read(&path) else {
+--- a/src/renderer/extensionImages.ts
++++ b/src/renderer/extensionImages.ts
+@@ -3,6 +3,7 @@
+ const imageObjectUrls = new Map<string, string>()
+ 
+ export function extensionImageSource(value: string): string {
++  if (/^\/extensions\/(icons|artwork)\/[a-z0-9-]+\.(png|webp|svg)$/.test(value)) return value
+   if (/^(https?:|data:|file:|blob:)/i.test(value)) return value
+   if (value.startsWith('/')) return `file://${encodeURI(value)}`
+   return value
+--- a/src/renderer/src/raycast-api/detail-runtime.tsx
++++ b/src/renderer/src/raycast-api/detail-runtime.tsx
+@@ -553,7 +553,7 @@
+           </button>
+           <div className="text-[12px] font-semibold text-ink-2">{title}</div>
+           <div className="ml-auto flex items-center gap-1">
+-            <button type="button" className="btn btn-ghost" onClick={onRunPrimaryAction}>
++            <button type="button" className="btn btn-ghost" onClick={() => onRunPrimaryAction()}>
+               Enter
+             </button>
+             <button type="button" className="btn btn-ghost" onClick={onOpenActions}>
